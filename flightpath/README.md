@@ -6,7 +6,7 @@ To run the code:
 
 1) Copy the code into a file using the Linux kernel.
 2) Run using the swipl compiler for Prolog or install it here https://www.swi-prolog.org/Download.html.
-   After installing, input the following command swipl filename.pl with the filename replaced with the filename that you copied the
+   After installing, input the following command swipl filename.pl with the filename replaced with the filename of the file that you copied the
    contents into.
 3) Now you can test the code by providing the following query (?- fly(?,?).)
    Replace the two ?'s with two respective airports (e.g. lax, nyc, atl) with the provided database or custom database.
