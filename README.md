@@ -1,0 +1,12 @@
+The prog2.pl assignment was completed in Prolog. The database and assignment code is generally supposed to be seperate, but for this assignment
+we had to have it together. The code only works with a similar database to the one provided or the exact one. There are certain features that
+are lacking in this code as this was my first exposure to programming in Prolog and seeing a logic programming language in general.
+
+To run the code:
+
+1) Copy the code into a file using the Linux kernel.
+2) Run using the swipl compiler for Prolog or install it here https://www.swi-prolog.org/Download.html.
+   This is done by running swipl filename.pl
+3) Now you can test the code by providing the following queries (?- fly(?,?).)
+   Replace the two ?'s with two respective airports with the provided database or custom database.
+   Note: Make sure to close the fly(?,?) query with a "." as this is what Prolog is attempting to prove.
