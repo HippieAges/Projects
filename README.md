@@ -1,6 +1,6 @@
 The prog2.pl assignment was completed in Prolog. The database and assignment code is generally supposed to be seperate, but for this assignment
-we had to have it together. The code only works with a similar database to the one provided or the exact one. There are certain features that
-are lacking in this code as this was my first exposure to programming in Prolog and seeing a logic programming language in general.
+we had to have it together. The code only works with a similar database to the one provided or the one provided. There are certain features that
+are lacking in this code as this was my first exposure to programming in Prolog and as such, seeing a logic programming language in general.
 
 To run the code:
 
