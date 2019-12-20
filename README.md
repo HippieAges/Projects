@@ -8,6 +8,6 @@ To run the code:
 2) Run using the swipl compiler for Prolog or install it here https://www.swi-prolog.org/Download.html.
    After installing, input the following command swipl filename.pl with the filename replaced with the filename that you copied the
    contents into.
-3) Now you can test the code by providing the following queries (?- fly(?,?).)
-   Replace the two ?'s with two respective airports with the provided database or custom database.
+3) Now you can test the code by providing the following query (?- fly(?,?).)
+   Replace the two ?'s with two respective airports (e.g. lax, nyc, atl) with the provided database or custom database.
    Note: Make sure to close the fly(?,?) query with a "." as this is what Prolog is attempting to prove.
