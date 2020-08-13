@@ -1,0 +1,4 @@
+```Weather Bot Commands:
+ !help : displays this board
+ !current <city> : displays today's weather based on the user-inputted city
+ !daily <city> : display's today's and the next 8-day outlook on weather```
