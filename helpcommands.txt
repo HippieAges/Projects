@@ -1,4 +1,11 @@
 ```Weather Bot Commands:
- !help : displays this board
- !current <city> : displays today's weather based on the user-inputted city
- !daily <city> : display's today's and the next 8-day outlook on weather```
+ !help : displays this help menu.
+ 
+ !current <city> : displays today's weather based on the user-inputted city (default: Farhenheit).
+    - !current -F <city> : displays today's weather in Farhenheit.
+    - !current -C <city> : displays today's weather in Celsius.
+
+ !weekly <city> : display's the weekly outlook on weather (default: Farhenheit).
+    - !weekly -F <city> : displays weekly weather in Farhenheit.
+    - !weekly -C <city> : displays weekly weather in Celsius.
+    ```
